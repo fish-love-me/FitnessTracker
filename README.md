@@ -32,7 +32,7 @@ A beautiful, native Android fitness tracking app built with React Native, TypeSc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/FitnessTracker.git
+git clone https://github.com/fish-love-me/FitnessTracker.git
 cd FitnessTracker
 ```
 
@@ -129,4 +129,3 @@ Private project
 ## Author
 
 Your Name
-
